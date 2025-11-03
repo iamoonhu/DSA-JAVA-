@@ -1,0 +1,2 @@
+BINARY SEARCH IN JAVA 
+T/C 0(Log(n))
