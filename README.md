@@ -6,6 +6,7 @@ T/C 0(Log(n))
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -44,4 +45,20 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0207-course-schedule) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
