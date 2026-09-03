@@ -15,6 +15,7 @@ T/C 0(Log(n))
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -23,6 +24,7 @@ T/C 0(Log(n))
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0210-course-schedule-ii) |
@@ -86,4 +88,12 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
