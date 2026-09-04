@@ -12,6 +12,7 @@ T/C 0(Log(n))
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
