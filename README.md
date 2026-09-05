@@ -8,6 +8,7 @@ T/C 0(Log(n))
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -27,6 +28,7 @@ T/C 0(Log(n))
 | ------- |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
@@ -36,6 +38,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -43,6 +46,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0210-course-schedule-ii) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
@@ -84,6 +88,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
 ## Math
 |  |
