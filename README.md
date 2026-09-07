@@ -88,6 +88,7 @@ T/C 0(Log(n))
 | ------- |
 | [0115-distinct-subsequences](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0115-distinct-subsequences) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
+| [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -104,6 +105,7 @@ T/C 0(Log(n))
 | ------- |
 | [0115-distinct-subsequences](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
+| [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
