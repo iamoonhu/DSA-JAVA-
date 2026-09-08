@@ -18,6 +18,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -122,4 +123,16 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0801-is-graph-bipartite) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
