@@ -136,4 +136,12 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
