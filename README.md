@@ -53,6 +53,7 @@ T/C 0(Log(n))
 | [0210-course-schedule-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -144,4 +145,12 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
