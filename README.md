@@ -102,6 +102,7 @@ T/C 0(Log(n))
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
 | [4248-count-commas-in-range-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 ## String
@@ -109,6 +110,7 @@ T/C 0(Log(n))
 | ------- |
 | [0115-distinct-subsequences](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
+| [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
 ## Bidirectional Search
 |  |
@@ -134,6 +136,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
+| [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
