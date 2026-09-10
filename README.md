@@ -9,6 +9,7 @@ T/C 0(Log(n))
 | [0130-surrounded-regions](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0200-number-of-islands) |
+| [0503-next-greater-element-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -141,6 +142,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -153,4 +155,8 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
