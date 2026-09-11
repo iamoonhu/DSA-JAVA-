@@ -12,6 +12,7 @@ T/C 0(Log(n))
 | [0503-next-greater-element-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
+| [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4284-smallest-stable-index-i) |
@@ -20,6 +21,7 @@ T/C 0(Log(n))
 | ------- |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
+| [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -162,4 +164,12 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0503-next-greater-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
