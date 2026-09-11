@@ -93,6 +93,7 @@ T/C 0(Log(n))
 | ------- |
 | [0115-distinct-subsequences](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0115-distinct-subsequences) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
 ## Union-Find
 |  |
@@ -113,6 +114,7 @@ T/C 0(Log(n))
 | [0115-distinct-subsequences](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
+| [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
 ## Bidirectional Search
 |  |
@@ -148,6 +150,7 @@ T/C 0(Log(n))
 | ------- |
 | [0155-min-stack](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -172,4 +175,12 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
