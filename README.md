@@ -98,6 +98,7 @@ T/C 0(Log(n))
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -120,6 +121,7 @@ T/C 0(Log(n))
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ T/C 0(Log(n))
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -183,6 +186,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
