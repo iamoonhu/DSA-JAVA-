@@ -98,6 +98,7 @@ T/C 0(Log(n))
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
 |  |
@@ -111,6 +112,7 @@ T/C 0(Log(n))
 | ------- |
 | [0062-unique-paths](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0062-unique-paths) |
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4248-count-commas-in-range-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 ## String
@@ -129,6 +131,7 @@ T/C 0(Log(n))
 ## Prefix Sum
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4284-smallest-stable-index-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4284-smallest-stable-index-i) |
 ## Graph Coloring
 |  |
@@ -195,4 +198,5 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0062-unique-paths) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
