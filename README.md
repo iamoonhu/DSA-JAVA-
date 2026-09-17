@@ -13,6 +13,7 @@ T/C 0(Log(n))
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [0864-image-overlap](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0864-image-overlap) |
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -22,6 +23,7 @@ T/C 0(Log(n))
 | ------- |
 | [0127-word-ladder](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -98,6 +100,7 @@ T/C 0(Log(n))
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
 | [0977-distinct-subsequences-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0977-distinct-subsequences-ii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
@@ -199,4 +202,12 @@ T/C 0(Log(n))
 | ------- |
 | [0062-unique-paths](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0062-unique-paths) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Binary Search
+|  |
+| ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
