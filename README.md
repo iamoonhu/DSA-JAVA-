@@ -115,6 +115,7 @@ T/C 0(Log(n))
 | ------- |
 | [0062-unique-paths](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0062-unique-paths) |
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4248-count-commas-in-range-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -210,4 +211,8 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
