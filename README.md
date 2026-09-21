@@ -15,6 +15,7 @@ T/C 0(Log(n))
 | [1073-number-of-enclaves](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1073-number-of-enclaves) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4284-smallest-stable-index-i) |
@@ -103,6 +104,7 @@ T/C 0(Log(n))
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iamoonhu/DSA-JAVA-/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3831-find-x-value-of-array-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3831-find-x-value-of-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,6 +119,7 @@ T/C 0(Log(n))
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3831-find-x-value-of-array-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3831-find-x-value-of-array-i) |
 | [4248-count-commas-in-range-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 ## String
