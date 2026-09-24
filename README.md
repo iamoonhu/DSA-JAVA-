@@ -16,6 +16,7 @@ T/C 0(Log(n))
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3799-unique-3-digit-even-numbers](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3831-find-x-value-of-array-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4284-smallest-stable-index-i) |
@@ -120,6 +121,7 @@ T/C 0(Log(n))
 | [1501-circle-and-rectangle-overlapping](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3831-find-x-value-of-array-i](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3831-find-x-value-of-array-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamoonhu/DSA-JAVA-/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4248-count-commas-in-range-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4248-count-commas-in-range-ii) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/4258-construct-uniform-parity-array-ii) |
 ## String
