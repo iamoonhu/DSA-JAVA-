@@ -98,6 +98,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0115-distinct-subsequences) |
 | [0542-01-matrix](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0678-valid-parenthesis-string) |
@@ -117,6 +118,7 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 | [0556-next-greater-element-iii](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0556-next-greater-element-iii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -220,4 +222,8 @@ T/C 0(Log(n))
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/iamoonhu/DSA-JAVA-/tree/master/1501-circle-and-rectangle-overlapping) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iamoonhu/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
